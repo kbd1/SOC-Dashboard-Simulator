@@ -21,6 +21,8 @@ This project is designed for cybersecurity students and professionals looking to
 
 3. **Visualization**:
    - Displays a breakdown of alerts using bar graphs with `matplotlib`.
+![soc_dashboard_sample](https://github.com/user-attachments/assets/0abb427f-14aa-4296-901d-a75182b95d67)
+
 
 4. **Real-time Log Processing**:
    - Integration with the ELK stack for real-time log ingestion, parsing, and dashboard visualization.
